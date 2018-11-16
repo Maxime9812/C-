@@ -1,0 +1,6 @@
+/Users/leducmaxime/Projects/TD_console/TD_console/bin/Debug/TD_console.exe
+/Users/leducmaxime/Projects/TD_console/TD_console/bin/Debug/TD_console.pdb
+/Users/leducmaxime/Projects/TD_console/TD_console/obj/x86/Debug/TD_console.csprojAssemblyReference.cache
+/Users/leducmaxime/Projects/TD_console/TD_console/obj/x86/Debug/TD_console.csproj.CoreCompileInputs.cache
+/Users/leducmaxime/Projects/TD_console/TD_console/obj/x86/Debug/TD_console.exe
+/Users/leducmaxime/Projects/TD_console/TD_console/obj/x86/Debug/TD_console.pdb
